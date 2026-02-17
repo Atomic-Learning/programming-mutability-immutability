@@ -1,0 +1,20 @@
+{
+    "title": "Programming: Mutability and Immutability",
+    "slug": "programming-mutability-immutability",
+    "description": "Introduction to mutability and immutability on a conceptual level. Covers the distinction between mutable objects that can be modified and immutable objects that cannot change.",
+    "authors": [
+        "chris-cooling"
+    ],
+    "tags": [
+        "programming"
+    ],
+    "duration": 3,
+    "prerequisites": [
+        "programming-objects-types",
+        "programming-variables"
+    ],
+    "related": [
+        "programming-mutability-reference-semantics",
+        "python-mutable-immutable-types"
+    ]
+}
